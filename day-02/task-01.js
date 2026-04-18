@@ -23,11 +23,11 @@ moduals = num1%num2;
 console.log(moduals);
 
 let equal;
-equal = num1==num2;
+equal = 50==50;
 console.log(equal);
 
 let strictEquality;
-strictEquality = num1===num2;
+strictEquality = 50==="50";
 console.log(strictEquality);
 
 let notEquality;
